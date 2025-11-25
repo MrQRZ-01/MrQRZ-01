@@ -1,7 +1,12 @@
-# Hello my friend <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f44b.svg" width="50" height="50"/> Welcome!
+# Hi there welcome to my GitHub page
+I am a Programmer. 
+specializing in high-performance and scalable systems for the game industry. My focus is on C++ , engine architecture and Lua scripting.
 
-I write code to make the world a better place… or at least survive the bugs! ☕💻<br>
-Passionate about exploring new technologies and trying out fresh tools in programming
+I prioritize continuous technical evolution and learning; I can quickly master technologies I encounter, ensuring our tools and codebases are always state-of-the-art.
+
+I'm the Head Programmer at Chogan Studios, my role is centered on both technical mastery and strategic leadership and Technical game design. I am expert in C++, Lua, and all phases of Engine Development, including rendering, optimization, and core systems design. I thrive on translating ambitious game concepts into highly efficient code, driving forward both the underlying technology and ease of development team plus overall quality of our finished projects.
+
+
 
 <br>
 <br>
