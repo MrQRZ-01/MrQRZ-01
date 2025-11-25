@@ -6,7 +6,7 @@ Passionate about exploring new technologies and trying out fresh tools in progra
 <br>
 <br>
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="50" height="50"/>
 
@@ -14,13 +14,13 @@ Passionate about exploring new technologies and trying out fresh tools in progra
 <br>
 <br>
 
-# 💰 You can help me by Donating<br>
+## 💰 You can help me by Donating<br>
 <a href="https://www.buymeacoffee.com/mrqrz" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="250" height="250" />
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" height="150" />
 </a>
 
 <a href="https://ko-fi.com/mrqrz" target="_blank">
-  <img src="https://cdn.ko-fi.com/cdn/kofi3.png" width="250" height="250" alt="Buy me a coffee at Ko-fi"/>
+  <img src="https://cdn.ko-fi.com/cdn/kofi3.png" width="150" height="150" alt="Buy me a coffee at Ko-fi"/>
 </a>
 
 
