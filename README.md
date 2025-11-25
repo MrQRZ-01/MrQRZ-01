@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hello my friend <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f44b.svg" width="50" height="50"/> Welcome!
 
-<!--
-**MrQRZ-01/MrQRZ-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I write code to make the world a better place… or at least survive the bugs! ☕💻<br>
+Passionate about exploring new technologies and trying out fresh tools in programming
 
-Here are some ideas to get you started:
+<br>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="50" height="50"/>
+
+<br>
+<br>
+<br>
+
+# 💰 You can help me by Donating<br>
+<a href="https://www.buymeacoffee.com/mrqrz" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="250" height="250" />
+</a>
+
+<a href="https://ko-fi.com/mrqrz" target="_blank">
+  <img src="https://cdn.ko-fi.com/cdn/kofi3.png" width="250" height="250" alt="Buy me a coffee at Ko-fi"/>
+</a>
+
+
+
