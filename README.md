@@ -17,15 +17,15 @@ I'm the Head Programmer at Chogan Studios, my role is centered on both technical
 
 <br>
 <br>
-<br>
+
 
 ## 💰 You can help me by Donating<br>
 <a href="https://www.buymeacoffee.com/mrqrz" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="100" height="50" />
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="100" height="35" />
 </a>
 
 <a href="https://ko-fi.com/mrqrz" target="_blank">
-  <img src="https://cdn.ko-fi.com/cdn/kofi3.png" width="100" height="50" alt="Buy me a coffee at Ko-fi"/>
+  <img src="https://cdn.ko-fi.com/cdn/kofi3.png" width="100" height="35" alt="Buy me a coffee at Ko-fi"/>
 </a>
 
 
