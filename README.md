@@ -1,5 +1,5 @@
-<img src="Asset/header.svg" alt="Logo" width="1000" height="160">
-<img src="Asset/About.svg" alt="Logo" width="1000" height="350">
+<img src="Asset/header.svg" alt="Logo" width="1000" height="120">
+<img src="Asset/About.svg" alt="Logo" width="1000" height="300">
 
 
 ## 💻 Tech Stack:
